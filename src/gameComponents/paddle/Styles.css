@@ -1,0 +1,8 @@
+
+.Paddle{
+  display:block;
+  position:absolute;
+  top:90%;
+  height:10px;
+  background-color:white;
+}
