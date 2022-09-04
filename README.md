@@ -6,6 +6,11 @@ The Intention:
 - Bricks move closer to paddle / paddle 'moves' forward
 - Collectibles drop from bricks occasionally
 - Collectibles used as currency 
+- Rounds/Levels last for X time, after which the player can purchase upgrades
+  - Upgrades usable by Mouse-click/ num-buttons on keyboard/ 'pressing' on the icons themselves
+  - Upgrade icons show which keyboard button/ mouse button to press to use
+  - Upgrade icons also display a 'refresh' timer
+    - I.e. a timer of how long until they're usable again
 - Currency to purchase upgrades
 - Upgrades to include:
   - Widen Paddle (timed/Persist)
@@ -19,6 +24,27 @@ The Intention:
 
 
 Generally- cheese it.
+
+#
+
+Link to diagram plan:
+https://tinyurl.com/3jxr5v7e
+
+#
+
+# Additional Goals/Stretch Goals:
+- Endless mode
+  - One endless game where the pace keeps getting faster and faster.
+  - Upgrades are not purchasable
+  - Unlockable?
+- Endless PLUS
+  - One endless game where the pace keeps getting faster and faster
+  - With upgrades
+    - Upgrades purchasable while playing by pressing the corresponding usage-key
+      - If not enough currency to purchase, icon flashes with a red hue and shakes mildly/ wobbles
+  - Unlockable?
+
+#
 
 # Names?
 ## Ultimate Brick Breaker
